@@ -1,9 +1,9 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/clementlee/Desktop/gas_challenge/contracts/gasChallenge.sol": {
-      "lastModificationDate": 1687502721396,
-      "contentHash": "0b98a4bf7e0a70635e1f3044bf14ac0e",
+    "/home/ultra-hx00/StackUp/gas_challenge/contracts/gasChallenge.sol": {
+      "lastModificationDate": 1690038421890,
+      "contentHash": "fd7c5a7828cb98e199253f1a01786a84",
       "sourceName": "contracts/gasChallenge.sol",
       "solcConfig": {
         "version": "0.8.18",
